@@ -1,0 +1,34 @@
+.app.js
+/** Crear El Objeto en el componenete */
+// const Pet = () => {
+//     return React.createElement("div", {},[
+//         React.createElement("h1", {}, "Luna"),
+//         React.createElement("h2",{},"Dog"),
+//         React.createElement("h2",{},"Havanese")
+//     ]);
+// };
+
+
+// With Props
+// const Pet = props => {
+//     return React.createElement("div", {},[
+//         React.createElement("h1", {}, props.name),
+//         React.createElement("h2",{},props.animal),
+//         React.createElement("h2",{},props.breed)
+//     ]);
+// };
+
+.html
+
+<!-- <script>
+        const App = () => {
+            return React.createElement(
+                "div",
+                {},
+                React.createElement("h1", {}, "Adopt Me!")
+            );
+        };
+
+        ReactDOM.render(React.createElement(App), document.getElementById("root"));
+    
+    </script> -->
